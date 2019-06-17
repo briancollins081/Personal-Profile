@@ -1,12 +1,12 @@
 <!-- CV & Cover Letter -->
-<?php require("cn/head.php"); ?>
+<?php require_once 'cn/head.php'; ?>
 
 <body class="">
     <div class="wrapper ">
-        <?php require("cn/sidebar.php"); ?>
+        <?php require_once 'cn/sidebar.php'; ?>
         <div class="main-panel">
             <!-- Navbar -->
-            <?php require("cn/navbar.php"); ?>
+            <?php require_once 'cn/navbar.php'; ?>
             <!-- End Navbar -->
             <div class="panel-header panel-header-sm">
             </div>
@@ -303,12 +303,11 @@
                     </div>
                 </div>
             </div>
-            <?php require("footer.php"); 
-                echo "Footer Footer Footer";?>
+            <?php require_once 'cn/footer.php'; ?>
         </div>
     </div>
 </body>
 <!--   Core JS Files   -->
-<?php require("cn/tail.php"); ?>
+<?php require_once 'cn/tail.php'; ?>
 
 </html>
