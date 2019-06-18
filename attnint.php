@@ -59,7 +59,20 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="well"><br><br></div>
+                                <div class="well"><br><br></div>                                
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-12">
+                        <div class="card">
+                            <div class="card-header">
+                                <div class="row">
+                                    <div class="col-lg-5 col-xs-6 alert alert-primary" style="border-left: 18px solid #1e90ff;">
+                                        <h6 class="title text-left">Work History</h6>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="card-body">
                                 <div class="row">
                                     <div class="col-md-12" style="border-left: 18px solid #1e90ff; border-radius: 5px;">
                                         <div class="table-responsive">
@@ -111,43 +124,6 @@
                                     </div>
                                 </div>
                                 <div class="well"><br><br></div>
-                                <!-- <div class="row">
-                                    <div class="col-md-12">
-                                        <div class="table-responsive">
-                                            <table class="table">
-                                                <tbody>
-                                                    <tr class="text-primary">
-                                                        <td colspan="3"><b>Registered Nurse (RN)</b></td>
-                                                    </tr>
-                                                    <tr>
-                                                        <td>
-                                                            09/2008 - 01/2009
-                                                        </td>
-                                                        <td>
-                                                            St. Jude's Medical Center
-                                                        </td>
-                                                        <td class="text-right">
-                                                            101 E. Valencia Mesa Drive, fullerton, CA
-                                                        </td>
-                                                    </tr>
-                                                    <tr>
-                                                        <td colspan="3">
-                                                            <ul>
-                                                                <li>Trained  to  care for  patients in  the  Critical  Care settings  with  Critical  Cardiac, Respiratory  and Neurological pathologies.</li>
-                                                                <li>Utilized safe effective management of the patient, interpret homodynamic waveforms, titrating multiple drips, and using judgments over ordered medications.</li>
-                                                                <li>Practiced Critical thinking and decision making under time sensible stresful situations of life and death.</li>
-                                                                <li>Provided patient and Family costumer care in a loving manner.</li>
-                                                                <li>
-                                                                    Implemented profesional medical comunication with doctors, and multiple health care workers related to patient care.
-                                                                </li>
-                                                            </ul>
-                                                        </td>
-                                                    </tr>
-                                                </tbody>
-                                            </table>
-                                        </div>
-                                    </div>
-                                </div> -->
                             </div>
                         </div>
                     </div>
