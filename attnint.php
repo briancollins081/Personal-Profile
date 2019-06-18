@@ -1,4 +1,6 @@
 <?php require_once 'cn/head.php'; ?>
+<?php require_once 'cn/m-abc-styles.php'; ?>
+
 
 <body class="">
     <div class="wrapper ">
@@ -13,9 +15,10 @@
                 <div class="row">
                     <div class="col-md-12">
                         <div class="card">
+
                             <div class="card-header">
                                 <div class="row">
-                                    <div class="col-lg-5 col-xs-6 alert alert-primary" style="border-left: 18px solid #1e90ff;">
+                                    <div class="col-lg-5 col-xs-6 alert alert-primary rem-top-mrg title-abc-blue">
                                         <h6 class="title text-left">Work History</h6>
                                     </div>
                                 </div>
@@ -61,10 +64,10 @@
                                 </div>
                                 <div class="well"><br><br></div>                                
                             </div>
-                        </div>
-                    </div>
-                    <div class="col-md-12">
-                        <div class="card">
+                            <hr>
+                            <hr>
+                            <!-- part one end -->
+
                             <div class="card-header">
                                 <div class="row">
                                     <div class="col-lg-5 col-xs-6 alert alert-primary" style="border-left: 18px solid #1e90ff;">
@@ -125,6 +128,9 @@
                                 </div>
                                 <div class="well"><br><br></div>
                             </div>
+                            <hr>
+                            <hr>
+                            <!-- end of part two -->
                         </div>
                     </div>
                 </div>

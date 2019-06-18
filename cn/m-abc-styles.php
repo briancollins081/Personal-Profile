@@ -14,8 +14,17 @@
   .rem-top-mrg{
     margin-top: -20px;
   }
+  .rem-btm-mrg{
+    margin-bottom:-30px;
+  }
+  .push-sys-btn-left{
+    margin-left: -35px;
+  }
   .rem-hr-mrg{
     margin-top: 0;
     margin-bottom: 0;
+  }
+  .img-height{
+    max-height: 400px;
   }
 </style>

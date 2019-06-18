@@ -62,9 +62,8 @@
                                 </div>
                             </div>
 
-                            
-                            <br><br>
-
+                            <hr>
+                            <hr>
                             <!-- work position 2 -->
                             <div class="card-header">
                                 <div class="row">
@@ -72,7 +71,7 @@
                                         <h6 class="title text-left">Work History Item #2</h6>
                                     </div>
                                 </div>
-                                <hr class="rem-hr-mrg" />
+                                <!-- <hr class="rem-hr-mrg" /> -->
                             </div>
                             <div class="card-body">
                                 <div class="row">
@@ -112,11 +111,13 @@
                                     </div>
                                 </div>
                             </div>
+                            <hr>
+                            <hr>
                         </div>
                     </div>
                 </div>
-                <?php require_once 'cn/footer.php'; ?>
             </div>
+             <?php require_once 'cn/footer.php'; ?>
         </div>
     </div>
 </body>

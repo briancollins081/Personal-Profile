@@ -1,6 +1,6 @@
 <!-- CV & Cover Letter -->
 <?php require_once 'cn/head.php'; ?>
-
+<?php require_once 'cn/m-abc-styles.php'; ?>
 <body class="">
     <div class="wrapper ">
         <?php require_once 'cn/sidebar.php'; ?>
@@ -14,17 +14,53 @@
                 <div class="row">
                     <div class="col-md-8">
                         <div class="card">
-                            <div class="card-header">
-                                <h5 class="title text-center">Resume</h5>
+                            <div class="alert alert-primary title-abc-blue">
+                                <div class="card-header">
+                                    <h6 class="title text-left"><b>Resume</b></h6>
+                                </div>
                             </div>
-                            <div class="card-body">
-                                <p class="description text-center">
+                                <div class="card-body">
+                                    <div class="row">
+                                        <div class="col-sm-12">
+                                            <hr>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-sm-1"></div>
+                                        <div class="col-sm-10">
+                                            <hr>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-sm-2"></div>
+                                        <div class="col-sm-8">
+                                            <hr>
+                                        </div>
+                                    </div>
+                                <p class=" text-center">
                                     Andere Brian Collins
                                     <br>4 0105 - 121 Maseno, Kenya
                                     <br> Ebussamba Village, Vihiga County
                                     <br> Phone: (+254) 791-061944 
                                 </p>
-                                <hr/>
+                                <div class="row">
+                                    <div class="col-sm-2"></div>
+                                    <div class="col-sm-8">
+                                        <hr>
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-sm-1"></div>
+                                    <div class="col-sm-10">
+                                        <hr>
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-sm-12">
+                                        <hr>
+                                    </div>
+                                </div>
+                                <br/>
                                 <div class="row">
                                     <div class="col-md-6">
                                         <h6>Objective</h6>

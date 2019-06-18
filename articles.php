@@ -14,6 +14,7 @@
                 <div class="row">
                   <div class="col-md-12">
                     <div class="card card-tasks">
+
                       <h5 class="card-category alert alert-primary">IT in B/S Practices</h5><hr class="rem-top-mrg" />
                       <div class="card-header rem-top-mrg">
                         <div class="row">
@@ -41,10 +42,9 @@
                           </div>
                         </div>
                       </div>
-                  </div>
-                  </div>
-                  <div class="col-md-12">
-                    <div class="card card-tasks">
+                      <!-- end article 1 -->
+                      <hr/>
+                      <hr/>
                       <h5 class="card-category alert alert-primary">IT in B/S Practices</h5><hr class="rem-hr-mrg">
                       <div class="card-header rem-top-mrg">
                        <div class="row">
@@ -72,13 +72,9 @@
                           </div>
                         </div>
                       </div>
-                  </div>
-                  </div>
-                </div>
-
-                <div class="row">
-                 <div class="col-md-12">
-                    <div class="card card-tasks">
+                      <!-- end of article 2 -->
+                      <hr/>
+                      <hr/>
                       <h5 class="card-category alert alert-primary">IT in B/S Practices</h5><hr class="rem-hr-mrg">
                       <div class="card-header rem-top-mrg">
                         <div class="row">
@@ -107,10 +103,9 @@
                           </div>
                         </div>
                       </div>
-                  </div>
-                  </div>
-                  <div class="col-md-12">
-                    <div class="card card-tasks">
+                      <!-- end of article 3 -->
+                      <hr/>
+                      <hr/>
                       <h5 class="card-category alert alert-primary">IT in B/S Practices</h5><hr class="rem-hr-mrg">
                       <div class="card-header rem-top-mrg">
                         <div class="row">
@@ -139,12 +134,9 @@
                           </div>
                         </div>
                       </div>
-                  </div>
-                  </div>
-                </div>
-                <div class="row">
-                 <div class="col-md-12">
-                    <div class="card card-tasks">
+                      <!-- end of article 4 -->
+                      <hr/>
+                      <hr/>
                       <h5 class="card-category alert alert-primary">IT in B/S Practices</h5><hr class="rem-hr-mrg">
                       <div class="card-header rem-top-mrg">
                         <div class="row">
@@ -172,9 +164,13 @@
                           </div>
                         </div>
                       </div>
-                  </div>
+                      <!-- end of article 4 -->
+                      <hr/>
+                      <hr/>
+                  </div> <!-- card-body-main -->
+                  </div> <!-- col-md-12.container-main -->
                 </div>
-                </div>
+
             </div>
            <?php require_once 'cn/footer.php'; ?>
         </div>
