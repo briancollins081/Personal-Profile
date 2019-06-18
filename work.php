@@ -15,11 +15,15 @@
                     <div class="col-md-12">
                         <div class="card">
                             <div class="card-header">
-                                <h6 class="title text-center">Work History</h6>
+                                <div class="row">
+                                    <div class="col-lg-5 col-xs-6 alert alert-primary" style="border-left: 18px solid #1e90ff;">
+                                        <h6 class="title text-left">Work History</h6>
+                                    </div>
+                                </div>
                             </div>
                             <div class="card-body">
                                 <div class="row">
-                                    <div class="col-md-12">
+                                    <div class="col-md-12" style="border-left: 18px solid #1e90ff; border-radius: 5px;">
                                         <div class="table-responsive">
                                             <table class="table">
                                                 <tbody>
@@ -56,8 +60,11 @@
                                         </div>
                                     </div>
                                 </div>
+                                <div>
+                                    <br><br>
+                                </div>
                                 <div class="row">
-                                    <div class="col-md-12">
+                                    <div class="col-md-12" style="border-left: 18px solid #1e90ff; border-radius: 5px;">
                                         <div class="table-responsive">
                                             <table class="table">
                                                 <tbody>
