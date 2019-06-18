@@ -24,26 +24,30 @@
                                             <table class="table">
                                                 <tbody>
                                                     <tr class="text-primary">
-                                                        <td colspan="3"><b>Registered Nurse (RN)</b></td>
+                                                        <td colspan="3"><b>Hired Teacher</b></td>
                                                     </tr>
                                                     <tr>
                                                         <td>
-                                                            10/2014 - 02/2015
+                                                            01/2014 - 08/2015
                                                         </td>
                                                         <td>
-                                                            Bethesda Cardiovascular
+                                                            Kakuma Mixed Primary School
                                                         </td>
                                                         <td class="text-right">
-                                                            2815 S Seacrest Blvd, Boynton Beach, FL
+                                                            Kakuma, Turkana County, Lodwar
                                                         </td>
                                                     </tr>
                                                     <tr>
                                                         <td colspan="3">
                                                             <ul>
-                                                                <li>Provided care service in the emergency room department.</li>
-                                                                <li>Prioritized care for life treatning status of patients Stabilized vital signs of critically emergent illed patients</li>
-                                                                <li>Used of computer documentation of assesments, progress and care plans of patient care.</li>
-                                                                <li>Interpret homodynamic waveforms, titrating multiple drips, and using judgments over ordered medications.</li>
+                                                                <li>Taught Mathematics, English, Science and Swahili</li>
+                                                                <li>Teaching and following up on student class performance.</li>
+                                                                <li>Administering assignments, tracking student progress and coming up with means to improve class performance.</li>
+                                                                <li>Set and administred tests and cats to class on the units that I taught.</li>
+                                                                <li>Developed work plans for each class.</li>
+                                                                <li>Used Excel Spreadsheets to record and analyze data for the class tests, cats and exams which were held throughout the curriculum.</li>
+                                                                <li>Helped in results analysis, using Excel and Access Database.</li>
+                                                                <li>Helped in Printing and Correcting results.</li>
                                                             </ul>
                                                         </td>
                                                     </tr>
@@ -58,35 +62,28 @@
                                             <table class="table">
                                                 <tbody>
                                                     <tr class="text-primary">
-                                                        <td colspan="3"><b>RN BSN (Registered Nurse Bachelor of Science in Nu</b></td>
+                                                        <td colspan="3"><b>Part Time Teacher</b></td>
                                                     </tr>
                                                     <tr>
                                                         <td>
-                                                            03/2009 - 10/2014
+                                                            01/2015 - 08/2015
                                                         </td>
                                                         <td>
-                                                            Firstat Nursing Svc
+                                                            Kakuma Arid Zone Boarding School
                                                         </td>
                                                         <td class="text-right">
-                                                            5601 Corporate Way # 404, West Palm Beach, FL
+                                                            Kakuma, Turkana County, Lodwar
                                                         </td>
                                                     </tr>
                                                     <tr>
                                                         <td colspan="3">
                                                             <ul>
-                                                                <li>Traveled to any hospital, home health or clinic in need of reliable and prompt nursing staff.</li>
-                                                                <li>Covered needs in Telemetry, Step down, Endoscopy, ICU, PACU and Med/Surgical units.</li>
-                                                                <li>Provided humanly care through many vital tasks for the care of post-anesthesia and post-operative patients post.</li>
-                                                                <li>CABG, post PTCA, post Pacemaker placements and general medical intervened patients.</li>
-                                                                <li>
-                                                                    Adapted to newly introduced hospital units and staff in one shift time.
-                                                                </li>
-                                                                <li>
-                                                                    Provided nursing services in a flexible per diem basis for 12 hour Am an Night shifts.
-                                                                </li>
-                                                                <li>
-                                                                  Documented patient care in computer software for health care related to each patient specific to each hospital floated to.  
-                                                                </li>
+                                                                <li>Part time English teacher.</li>
+                                                                <li>Teaching and following up on student class performance.</li>
+                                                                <li>Administering assignments, tracking student progress and coming up with means to improve class performance.</li>
+                                                                <li>Set and administred tests and cats to class on the units that I taught.</li>
+                                                                <li>Developed work plans for each class.</li>
+                                                                <li>Used Excel Spreadsheets to record and analyze data for the class tests, cats and exams which were held throughout the curriculum.</li>
                                                             </ul>
                                                         </td>
                                                     </tr>
@@ -95,7 +92,7 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="row">
+                                <!-- <div class="row">
                                     <div class="col-md-12">
                                         <div class="table-responsive">
                                             <table class="table">
@@ -131,7 +128,7 @@
                                             </table>
                                         </div>
                                     </div>
-                                </div>
+                                </div> -->
                             </div>
                         </div>
                     </div>
