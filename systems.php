@@ -28,21 +28,21 @@
                                   <div class="card-body">
                                     <h6 class="card-title">Brief Description.</h6>
                                     <p>
-                                      The main purpose of developing this project is to come up with a JavaFx Media Player and Manager that demonstrates three main things which include: creation of user playlists based on user predefined preferences, grouping of playlists into user libraries and saving them to an embedded database and finally being able to define a playlist as public or private by use of a password. 
+                                      The main purpose of developing this project is to come up with a Java Based Media Player and Manager that demonstrates three main things which include: creation of user playlists based on user predefined preferences, grouping of playlists into user libraries and saving them to an embedded database and finally being able to define a playlist as public or private by use of a password. 
                                     </p>
                                     <p>
                                       The aim of these research is based on improving user experience in handling media mainly focusing on the desktop applications that use Java and Media Frameworks.
                                     </p>
                                     <div class="btn-group col-sm-4 push-sys-btn-left">
-                                      <button class="btn btn-primary btn-block btn-lg text-left">More On Protect Player</button>
+                                      <button class="btn btn-primary btn-block btn-lg text-left red-btn-pad-left"><i class="fas fa-stream fa-lg"></i>&nbsp;&nbsp;More On Protecht Project</button>
                                       <button class="btn btn-primary btn-lg dropdown-toggle dropdown-toggle-split" data-toggle="dropdown">
                                         <!-- <span class="caret"></span> -->
                                       </button>
                                       <div class="dropdown-menu">
-                                        <a href="#" class="dropdown-item">View Source Code</a>
-                                        <a href="#" class="dropdown-item">Place a Request on Project</a>
-                                        <a href="#" class="dropdown-item">More Details on the Project.</a>
-                                        <a href="#" class="dropdown-item">Queries.</a>
+                                        <a href="#" class="dropdown-item"><i class="far fa-eye fa-lg"></i>&nbsp;&nbsp;View Source Code</a>
+                                        <a href="#" class="dropdown-item"><i class="far fa-envelope fa-lg"></i>&nbsp;&nbsp;Place a Request on Project</a>
+                                        <a href="#" class="dropdown-item"><i class="fas fa-info-circle fa-lg"></i>&nbsp;&nbsp;More Details on the Project.</a>
+                                        <a href="#" class="dropdown-item"><i class="far fa-question-circle fa-lg"></i>&nbsp;&nbsp;Queries.</a>
                                       </div>
                                     </div>
                                   </div>
@@ -74,15 +74,15 @@
                                       This project is not only based on programming Object Oriented Java but it also covers concepts of threading, multitasking and class implementations of various Java primary classes from a basic point of view.
                                     </p>
                                     <div class="btn-group col-sm-4 push-sys-btn-left">
-                                      <button class="btn btn-primary btn-block btn-lg text-left">More On Protect Player</button>
+                                      <button class="btn btn-primary btn-block btn-lg text-left red-btn-pad-left"><i class="fas fa-stream fa-lg"></i>&nbsp;&nbsp;More On Java File Manager</button>
                                       <button class="btn btn-primary btn-lg dropdown-toggle dropdown-toggle-split" data-toggle="dropdown">
                                         <!-- <span class="caret"></span> -->
                                       </button>
                                       <div class="dropdown-menu">
-                                        <a href="#" class="dropdown-item">View Source Code</a>
-                                        <a href="#" class="dropdown-item">Place a Request on Project</a>
-                                        <a href="#" class="dropdown-item">More Details on the Project.</a>
-                                        <a href="#" class="dropdown-item">Queries.</a>
+                                        <a href="#" class="dropdown-item"><i class="far fa-eye fa-lg"></i>&nbsp;&nbsp;View Source Code</a>
+                                        <a href="#" class="dropdown-item"><i class="far fa-envelope fa-lg"></i>&nbsp;&nbsp;Place a Request on Project</a>
+                                        <a href="#" class="dropdown-item"><i class="fas fa-info-circle fa-lg"></i>&nbsp;&nbsp;More Details on the Project.</a>
+                                        <a href="#" class="dropdown-item"><i class="far fa-question-circle fa-lg"></i>&nbsp;&nbsp;Queries.</a>
                                       </div>
                                     </div>
                                   </div>
@@ -109,21 +109,22 @@
                                   <div class="card-body">
                                     <h6 class="card-title">Brief Description.</h6>
                                     <p>
-                                      The main purpose of developing this project is to come up with a JavaFx Media Player and Manager that demonstrates three main things which include: creation of user playlists based on user predefined preferences, grouping of playlists into user libraries and saving them to an embedded database and finally being able to define a playlist as public or private by use of a password. 
+                                      The main purpose of developing this project is to come up with a simple system for highschool students which will enable them revise with ease while at home. The system basically is a like a web forum on which teachers and the students are signed up already by the admin and all they need to do is to log in in order to access the other items posted by other memebers. 
                                     </p>
                                     <p>
-                                      The aim of these research is based on improving user experience in handling media mainly focusing on the desktop applications that use Java and Media Frameworks.
+                                      The students have the privilage to of posting difficult questions that they can not solve. editi their own questions, comment on any questions and answere. Teachers have the privillage of posting, editing and deleting irrelevant questions. The techer can also flag a student who doesnt follow the forums rules. Any flagged student cannot access the portal with their account for a week.
                                     </p>
+                                    <p>With the system in place, students are able to communicate their prolems, share their assignments, share their knowledge from a central point of access for everyone. Teachers are able to evauate the main areas that bring difficulty to their students.</p>
                                     <div class="btn-group col-sm-4 push-sys-btn-left">
-                                      <button class="btn btn-primary btn-block btn-lg text-left">More On Holiday Revision System</button>
+                                      <button class="btn btn-primary btn-block btn-lg text-left red-btn-pad-left"><i class="fas fa-stream fa-lg"></i>&nbsp;&nbsp;More On Holiday Revision System</button>
                                       <button class="btn btn-primary btn-lg dropdown-toggle dropdown-toggle-split" data-toggle="dropdown">
                                         <!-- <span class="caret"></span> -->
                                       </button>
                                       <div class="dropdown-menu">
-                                        <a href="#" class="dropdown-item">View Source Code</a>
-                                        <a href="#" class="dropdown-item">Place a Request on Project</a>
-                                        <a href="#" class="dropdown-item">More Details on the Project.</a>
-                                        <a href="#" class="dropdown-item">Queries.</a>
+                                        <a href="#" class="dropdown-item"><i class="far fa-eye fa-lg"></i>&nbsp;&nbsp;View Source Code</a>
+                                        <a href="#" class="dropdown-item"><i class="far fa-envelope fa-lg"></i>&nbsp;&nbsp;Place a Request on Project</a>
+                                        <a href="#" class="dropdown-item"><i class="fas fa-info-circle fa-lg"></i>&nbsp;&nbsp;More Details on the Project.</a>
+                                        <a href="#" class="dropdown-item"><i class="far fa-question-circle fa-lg"></i>&nbsp;&nbsp;Queries.</a>
                                       </div>
                                     </div>
                                   </div>
@@ -155,15 +156,15 @@
                                       The aim of these research is based on improving user experience in handling media mainly focusing on the desktop applications that use Java and Media Frameworks.
                                     </p>
                                     <div class="btn-group col-sm-4 push-sys-btn-left">
-                                      <button class="btn btn-primary btn-block btn-lg text-left">More On Ecommerce System</button>
+                                      <button class="btn btn-primary btn-block btn-lg text-left red-btn-pad-left"><i class="fas fa-stream fa-lg"></i>&nbsp;&nbsp;More Ecommerce System Frontend</button>
                                       <button class="btn btn-primary btn-lg dropdown-toggle dropdown-toggle-split" data-toggle="dropdown">
                                         <!-- <span class="caret"></span> -->
                                       </button>
                                       <div class="dropdown-menu">
-                                        <a href="#" class="dropdown-item">View Source Code</a>
-                                        <a href="#" class="dropdown-item">Place a Request on Project</a>
-                                        <a href="#" class="dropdown-item">More Details on the Project.</a>
-                                        <a href="#" class="dropdown-item">Queries.</a>
+                                        <a href="#" class="dropdown-item"><i class="far fa-eye fa-lg"></i>&nbsp;&nbsp;View Source Code</a>
+                                        <a href="#" class="dropdown-item"><i class="far fa-envelope fa-lg"></i>&nbsp;&nbsp;Place a Request on Project</a>
+                                        <a href="#" class="dropdown-item"><i class="fas fa-info-circle fa-lg"></i>&nbsp;&nbsp;More Details on the Project.</a>
+                                        <a href="#" class="dropdown-item"><i class="far fa-question-circle fa-lg"></i>&nbsp;&nbsp;Queries.</a>
                                       </div>
                                     </div>
                                   </div>
@@ -196,15 +197,15 @@
                                       The aim of these research is based on improving user experience in handling media mainly focusing on the desktop applications that use Java and Media Frameworks.
                                     </p>
                                     <div class="btn-group col-sm-4 push-sys-btn-left">
-                                      <button class="btn btn-primary btn-block btn-lg text-left">More On Marriage Conslt System</button>
+                                      <button class="btn btn-primary btn-block btn-lg text-left red-btn-pad-left"><i class="fas fa-stream fa-lg"></i>&nbsp;&nbsp;More On Marriage COnsultation System</button>
                                       <button class="btn btn-primary btn-lg dropdown-toggle dropdown-toggle-split" data-toggle="dropdown">
                                         <!-- <span class="caret"></span> -->
                                       </button>
                                       <div class="dropdown-menu">
-                                        <a href="#" class="dropdown-item">View Source Code</a>
-                                        <a href="#" class="dropdown-item">Place a Request on Project</a>
-                                        <a href="#" class="dropdown-item">More Details on the Project.</a>
-                                        <a href="#" class="dropdown-item">Queries.</a>
+                                        <a href="#" class="dropdown-item"><i class="far fa-eye fa-lg"></i>&nbsp;&nbsp;View Source Code</a>
+                                        <a href="#" class="dropdown-item"><i class="far fa-envelope fa-lg"></i>&nbsp;&nbsp;Place a Request on Project</a>
+                                        <a href="#" class="dropdown-item"><i class="fas fa-info-circle fa-lg"></i>&nbsp;&nbsp;More Details on the Project.</a>
+                                        <a href="#" class="dropdown-item"><i class="far fa-question-circle fa-lg"></i>&nbsp;&nbsp;Queries.</a>
                                       </div>
                                     </div>
                                   </div>
@@ -236,15 +237,15 @@
                                       The aim of these research is based on improving user experience in handling media mainly focusing on the desktop applications that use Java and Media Frameworks.
                                     </p>
                                     <div class="btn-group col-sm-4 push-sys-btn-left">
-                                      <button class="btn btn-primary btn-block btn-lg text-left">More On Rapid Response System.</button>
+                                      <button class="btn btn-primary btn-block btn-lg text-left red-btn-pad-left"><i class="fas fa-stream fa-lg"></i>&nbsp;&nbsp;More On Rapid Response System</button>
                                       <button class="btn btn-primary btn-lg dropdown-toggle dropdown-toggle-split" data-toggle="dropdown">
                                         <!-- <span class="caret"></span> -->
                                       </button>
                                       <div class="dropdown-menu">
-                                        <a href="#" class="dropdown-item">View Source Code</a>
-                                        <a href="#" class="dropdown-item">Place a Request on Project</a>
-                                        <a href="#" class="dropdown-item">More Details on the Project.</a>
-                                        <a href="#" class="dropdown-item">Queries.</a>
+                                        <a href="#" class="dropdown-item"><i class="far fa-eye fa-lg"></i>&nbsp;&nbsp;View Source Code</a>
+                                        <a href="#" class="dropdown-item"><i class="far fa-envelope fa-lg"></i>&nbsp;&nbsp;Place a Request on Project</a>
+                                        <a href="#" class="dropdown-item"><i class="fas fa-info-circle fa-lg"></i>&nbsp;&nbsp;More Details on the Project.</a>
+                                        <a href="#" class="dropdown-item"><i class="far fa-question-circle fa-lg"></i>&nbsp;&nbsp;Queries.</a>
                                       </div>
                                     </div>
                                   </div>

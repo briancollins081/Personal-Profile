@@ -27,4 +27,7 @@
   .img-height{
     max-height: 400px;
   }
+  .red-btn-pad-left{
+    padding-left: 10px;
+  }
 </style>
