@@ -3,7 +3,7 @@
 <?php require_once 'cn/head.php'; ?>
 <?php require_once 'cn/m-abc-styles.php'; ?>
 
-<body class="">
+<body class="itactivities">
     <div class="wrapper ">
         <?php require_once 'cn/sidebar.php'; ?>
         <div class="main-panel">

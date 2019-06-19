@@ -1,6 +1,6 @@
 <!-- CV & Cover Letter -->
 <?php require_once 'cn/head.php'; ?>
-<body class="">
+<body class="work">
     <div class="wrapper ">
         <?php require_once 'cn/sidebar.php'; ?>
         <div class="main-panel">
