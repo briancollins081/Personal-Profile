@@ -16,9 +16,13 @@
                 <div class="row">
                     <div class="col-md-12">
                         <div class="card card-tasks">
-                          <div class="card-header">
-                            <h5 class="card-category">Java Media Player</h5>
-                            <h6 class="card-title">Protecht Project</h6>
+                          <h5 class="card-category alert alert-primary">Java Media Player</h5><hr class="rem-top-mrg" />
+                          <div class="card-header rem-top-mrg">
+                            <div class="row push-title-left">
+                              <div class="col-sm-6 alert alert-dark title-abc-blue rem-top-mrg">
+                                <h6 class="card-title">Protecht Project</h6>
+                              </div>
+                            </div>
                           </div>
                           <div class="card-body">
                             <div class="table-full-width table-responsive rem-btm-mrg">
@@ -56,9 +60,13 @@
                   <div class="row">
                     <div class="col-md-12">
                         <div class="card card-tasks">
-                          <div class="card-header">
-                            <h5 class="card-category">Java File Manager</h5>
-                            <h6 class="card-title">Concurrent File Operations</h6>
+                          <h5 class="card-category alert alert-primary">Java File Manager</h5><hr class="rem-top-mrg" />
+                          <div class="card-header rem-top-mrg">
+                            <div class="row push-title-left">
+                              <div class="col-sm-6 alert alert-dark title-abc-blue rem-top-mrg">
+                                <h6 class="card-title">Concurrent File Operations</h6>
+                              </div>
+                            </div>
                           </div>
                           <div class="card-body">
                             <div class="table-full-width table-responsive rem-btm-mrg">
@@ -66,7 +74,7 @@
                                 <div class="card">
                                   <img class="card-img-top rounded" src="assets/img/ajf.png" alt="Protecht Media Player" />
                                   <div class="card-body">
-                                    <h6 class="card-title">Brief Description.</h6>
+                                    <h6 class="card-title text-left">Brief Description.</h6>
                                     <p>
                                       The aim of these research was based on improving user experience in file management mainly focusing on the renaming operations. We aim at making the rename operation as easy as possible and more suitable for multiple numerous files. Here we will use both that java.io and java.nio packages. Java Swing and AWT packages will also be used to develop the GUI. 
                                     </p>
@@ -97,9 +105,13 @@
                  <div class="row">
                     <div class="col-md-12">
                         <div class="card card-tasks">
-                          <div class="card-header">
-                            <h5 class="card-category">Web Design ##Complete / Requires Improvements</h5>
-                            <h6 class="card-title">Holiday Revision System</h6>
+                          <h5 class="card-category alert alert-primary">Web Design ##Complete / Requires Improvements</h5><hr class="rem-top-mrg" />
+                          <div class="card-header rem-top-mrg">
+                            <div class="row push-title-left">
+                              <div class="col-sm-6 alert alert-dark title-abc-blue rem-top-mrg">
+                                <h6 class="card-title">Holiday Revision System</h6>
+                              </div>
+                            </div>
                           </div>
                           <div class="card-body">
                             <div class="table-full-width table-responsive rem-btm-mrg">
@@ -138,9 +150,13 @@
                   <div class="row">
                     <div class="col-md-12">
                         <div class="card card-tasks">
-                          <div class="card-header">
-                            <h5 class="card-category">Web Design ##Underway / Requires Improvements</h5>
-                            <h6 class="card-title">Ecommerce System FrontEnd and a Little Backend</h6>
+                          <h5 class="card-category alert alert-primary">Web Design ##Underway / Requires Improvements</h5><hr class="rem-top-mrg" />
+                          <div class="card-header rem-top-mrg">
+                            <div class="row push-title-left">
+                              <div class="col-sm-6 alert alert-dark title-abc-blue rem-top-mrg">
+                                <h6 class="card-title">Ecommerce System</h6>
+                              </div>
+                            </div>
                           </div>
                           <div class="card-body">
                             <div class="table-full-width table-responsive rem-btm-mrg">
@@ -150,10 +166,10 @@
                                   <div class="card-body">
                                     <h6 class="card-title">Brief Description.</h6>
                                     <p>
-                                      The main purpose of developing this project is to come up with a JavaFx Media Player and Manager that demonstrates three main things which include: creation of user playlists based on user predefined preferences, grouping of playlists into user libraries and saving them to an embedded database and finally being able to define a playlist as public or private by use of a password. 
+                                      This is an ecommerce system that is still uderway. The part of the system completed includes the backend and the front end for the shopping items, order placement, checkout, cart management and product catalog. The site is mainly made up of several sections which include the main homepage that includes a rotational product window and several sections that dislay various common categories.
                                     </p>
                                     <p>
-                                      The aim of these research is based on improving user experience in handling media mainly focusing on the desktop applications that use Java and Media Frameworks.
+                                      The other parts of the system are made  up of sellers section, investors section and admin sections which will be completed later.
                                     </p>
                                     <div class="btn-group col-sm-4 push-sys-btn-left">
                                       <button class="btn btn-primary btn-block btn-lg text-left red-btn-pad-left"><i class="fas fa-stream fa-lg"></i>&nbsp;&nbsp;More Ecommerce System Frontend</button>
@@ -179,9 +195,13 @@
                 <div class="row">
                     <div class="col-md-12">
                         <div class="card card-tasks">
-                          <div class="card-header">
-                            <h5 class="card-category">Web Design ##Underway</h5>
-                            <h6 class="card-title">Marriage Consultation System</h6>
+                          <h5 class="card-category alert alert-primary">Web Design ##Complete / Requires Improvements</h5><hr class="rem-top-mrg" />
+                          <div class="card-header rem-top-mrg">
+                            <div class="row push-title-left">
+                              <div class="col-sm-6 alert alert-dark title-abc-blue rem-top-mrg">
+                                <h6 class="card-title">Marriage Consultation System</h6>
+                              </div>
+                            </div>
                           </div>
                           <div class="card-body">
                             <div class="table-full-width table-responsive rem-btm-mrg">
@@ -191,13 +211,13 @@
                                   <div class="card-body">
                                     <h6 class="card-title">Brief Description.</h6>
                                     <p>
-                                      The main purpose of developing this project is to come up with a JavaFx Media Player and Manager that demonstrates three main things which include: creation of user playlists based on user predefined preferences, grouping of playlists into user libraries and saving them to an embedded database and finally being able to define a playlist as public or private by use of a password. 
+                                      The to come up with a Marriage Forum that enables free discussion on marriage issues and problems. In this system one can open their account and post a question. The question can be anonymous or identified depending on the users choice. The user can also ansewer any questions and comment on any questions and answers given.
                                     </p>
                                     <p>
-                                      The aim of these research is based on improving user experience in handling media mainly focusing on the desktop applications that use Java and Media Frameworks.
+                                      A marriage specialist can be signed up by the admin. The specialist function is to post help to critical problems that require special attention.
                                     </p>
                                     <div class="btn-group col-sm-4 push-sys-btn-left">
-                                      <button class="btn btn-primary btn-block btn-lg text-left red-btn-pad-left"><i class="fas fa-stream fa-lg"></i>&nbsp;&nbsp;More On Marriage COnsultation System</button>
+                                      <button class="btn btn-primary btn-block btn-lg text-left red-btn-pad-left"><i class="fas fa-stream fa-lg"></i>&nbsp;&nbsp;More On Marriage Consultation System</button>
                                       <button class="btn btn-primary btn-lg dropdown-toggle dropdown-toggle-split" data-toggle="dropdown">
                                         <!-- <span class="caret"></span> -->
                                       </button>
@@ -219,9 +239,13 @@
                 <div class="row">
                     <div class="col-md-12">
                         <div class="card card-tasks">
-                          <div class="card-header">
-                            <h5 class="card-category">Web Design ##Completed</h5>
-                            <h6 class="card-title">Rapid Response System</h6>
+                          <h5 class="card-category alert alert-primary">Web Design ##Completed / Requires Improvements</h5><hr class="rem-top-mrg" />
+                          <div class="card-header rem-top-mrg">
+                            <div class="row push-title-left">
+                              <div class="col-sm-6 alert alert-dark title-abc-blue rem-top-mrg">
+                                <h6 class="card-title">Rapid Response System</h6>
+                              </div>
+                            </div>
                           </div>
                           <div class="card-body">
                             <div class="table-full-width table-responsive rem-btm-mrg">
@@ -231,10 +255,10 @@
                                   <div class="card-body">
                                     <h6 class="card-title">Brief Description.</h6>
                                     <p>
-                                      The main purpose of developing this project is to come up with a JavaFx Media Player and Manager that demonstrates three main things which include: creation of user playlists based on user predefined preferences, grouping of playlists into user libraries and saving them to an embedded database and finally being able to define a playlist as public or private by use of a password. 
+                                      The system was created to support emergency reporting that require quck handling. The system enables the user to quickly fill in the details of any incident and on submission the Emergency handling services handles the issues quickly. 
                                     </p>
                                     <p>
-                                      The aim of these research is based on improving user experience in handling media mainly focusing on the desktop applications that use Java and Media Frameworks.
+                                      The aim of these system is to enable the users to report emergencies, help the emergency organization to know how to handle these reported incidents and accumulates the reports on the emergency occurrence. 
                                     </p>
                                     <div class="btn-group col-sm-4 push-sys-btn-left">
                                       <button class="btn btn-primary btn-block btn-lg text-left red-btn-pad-left"><i class="fas fa-stream fa-lg"></i>&nbsp;&nbsp;More On Rapid Response System</button>
