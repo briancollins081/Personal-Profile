@@ -15,6 +15,4 @@
     <link href="assets/css/bootstrap.min.css" rel="stylesheet" />
     <link href="assets/css/main.css" rel="stylesheet" />
     <link href="assets/css/d.css" rel="stylesheet" />
-
-    <script src="https://kit.fontawesome.com/f47c08e16a.js"></script>
 </head>
